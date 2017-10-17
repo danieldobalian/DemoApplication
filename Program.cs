@@ -12,6 +12,7 @@ namespace DemoApplication
         { 
            Console.WriteLine("Hello world from VS");
            Console.WriteLine("Hello from Daniel!");
+            Console.WriteLine("Hey there!");
         }
     }
 }
